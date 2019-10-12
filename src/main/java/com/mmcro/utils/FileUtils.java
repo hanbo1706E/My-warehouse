@@ -20,7 +20,7 @@ public class FileUtils {
 
 	public static void main(String[] args) throws IOException {
 		
-		String readFileByLine = readFileByLine("D:\\1703A\\yunfu-parent\\pom.xml");
+		String readFileByLine = readFileByLine("G:\\f\\aaa.txt");
 		System.out.println("filename is " + readFileByLine);
 		//del("D:\\教学\\16.0\\小二 -副本");
 		
